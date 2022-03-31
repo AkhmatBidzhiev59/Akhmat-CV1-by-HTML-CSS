@@ -1,1 +1,1 @@
-# CV-in-HTML-CSS
+# CV-by-HTML-CSS
