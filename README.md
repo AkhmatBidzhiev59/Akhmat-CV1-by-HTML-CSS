@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -81,13 +81,13 @@
         <ul class="link-list">
           <li>
             <!-- This is not my! My YouTube courses are not published yet! -->
-            <a href="https://www.youtube.com/watch?v=bluxbh9CaQ0" 
+            <a href="https://www.akhmatyoutube.com/watch?v=bluxbh9CaQ0" 
               >JavaScript Основы для начинающих - Полный Курс за 6 часов
               [2022]</a> 
           </li>
           <li>
             <!-- This is not my! My YouTube courses are not published yet! -->
-            <a href="https://www.youtube.com/watch?ven9uCgUzfeRQ" 
+            <a href="https://www.akhmatyoutube.com/watch?ven9uCgUzfeRQ" 
               >Docker для начинающих - Полный Курс за 6 часов [2022]</a>
           </li>
         </ul>
